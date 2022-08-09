@@ -46,7 +46,7 @@
 </p>
 <br>
 
-Visit our [project page]() to explore more details. :smiling_imp:
+Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :paw_prints:
 
 
 ## Updates
