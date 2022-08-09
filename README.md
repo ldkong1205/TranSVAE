@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="figs/logo3.png" align="center" width="42%">
+  <img src="figs/logo.png" align="center" width="42%">
   
   <h3 align="center"><strong>Unsupervised Video Domain Adaptation: A Disentanglement Perspective</strong></h3>
 
