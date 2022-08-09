@@ -1,4 +1,4 @@
-<img src="../figs/logo3.png" align="right" width="28%">
+<img src="../figs/logo.png" align="right" width="28%">
 
 # Data Preparation
 Coming soon.
