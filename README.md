@@ -51,8 +51,8 @@ Visit our [project page]() to explore more details. :smiling_imp:
 
 ## Updates
 
-- [08/2022] - Try a [Gradio demo](https://huggingface.co/spaces/ldkong/TranSVAE) for domain disentanglement in TranSVAE at Hugging Face Spaces! :hugs:
-- [08/2022] - Our paper is available on arXiv, click [here]() to check it out!
+- [2022.08] - Try a [Gradio demo](https://huggingface.co/spaces/ldkong/TranSVAE) for domain disentanglement in TranSVAE at Hugging Face Spaces! :hugs:
+- [2022.08] - Our paper is available on arXiv, click [here]() to check it out!
 
 
 ## Outline
