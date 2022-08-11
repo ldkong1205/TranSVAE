@@ -57,6 +57,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 
 ## Outline
 
+- [Highlight](#highlight)
 - [Installation](#installation)
 - [Data Preparation](#data-preparation)
 - [Getting Started](#getting-started)
@@ -65,6 +66,18 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
+
+
+## Highlight
+
+#### Conceptual Comparison
+<img src="figs/idea.png" width="70%">
+
+#### Graphical Model
+<img src="figs/graph.png" width="60%">
+
+#### Framework Overview
+<img src="figs/framework.png" width="92%">
 
 
 ## Installation
