@@ -77,7 +77,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 <img src="figs/graph.png" width="60%">
 
 #### Framework Overview
-<img src="figs/framework.png" width="92%">
+<img src="figs/framework.png" width="95%">
 
 
 ## Installation
