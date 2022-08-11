@@ -70,15 +70,13 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 
 ## Highlights
 
-#### Conceptual Comparison
-<img src="figs/idea.png" width="70%">
-
-#### Graphical Model
-<img src="figs/graph.png" width="60%">
-
-#### Framework Overview
-<img src="figs/framework.png" width="96%">
-
+| <strong>Conceptual Comparison</strong> |
+|:-:|
+|<img src="figs/idea.png" width="70%">|
+| <strong>Graphical Model</strong> |
+|<img src="figs/graph.png" width="60%">|
+| <strong>Framework Overview</strong> |
+|<img src="figs/framework.png" width="96%">|
 
 ## Installation
 
