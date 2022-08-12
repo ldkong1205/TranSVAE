@@ -42,7 +42,7 @@
 <p align="center">
   <img src="figs/example.gif" align="center" width="60%">
   <br>
-  <strong>Col1:</strong> Original sequences ("Human" $\mathcal{D}=\mathcal{S}$ and "Alien" $\mathcal{D}=\mathcal{T}$); <strong>Col2:</strong> Sequence reconstructions; <strong>Col3:</strong> Reconstructed sequences using $\{z_1^{\mathcal{D}},...,z_T^{\mathcal{D}}\}$; <strong>Col4:</strong> Domain transferred sequences with exchanged $z_d^{\mathcal{D}}$.
+  <strong>Col1:</strong> Original sequences ("Human" $\mathcal{D}=\mathbf{P}_1$ and "Alien" $\mathcal{D}=\mathbf{P}_2$); <strong>Col2:</strong> Sequence reconstructions; <strong>Col3:</strong> Reconstructed sequences using $z_1^{\mathcal{D}},...,z_T^{\mathcal{D}}$; <strong>Col4:</strong> Domain transferred sequences with exchanged $z_d^{\mathcal{D}}$.
 </p>
 <br>
 
