@@ -1,0 +1,16 @@
+__pycache__/
+*.tar
+*.zip
+*.pth
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.avi
+*.egg-info/
+*.log
+*.txt
+.ipynb_checkpoints
+.vscode
+*.DS_Store
