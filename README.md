@@ -6,7 +6,7 @@
 
   <p align="center">
       <a href="https://scholar.google.com/citations?user=a94WthkAAAAJ" target='_blank'>Pengfei Wei</a><sup>1</sup>,&nbsp;
-      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Lingdong Kong</a><sup>2</sup>,&nbsp;
+      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Lingdong Kong</a><sup>1,2</sup>,&nbsp;
       <a href="https://scholar.google.com/citations?user=2PxlmU0AAAAJ" target='_blank'>Xinghua Qu</a><sup>1</sup>,&nbsp;
       <a href="https://scholar.google.com/citations?user=e6_J-lEAAAAJ" target='_blank'>Xiang Yin</a><sup>1</sup>,&nbsp;
       <a href="" target='_blank'>Zhiqiang Xu</a><sup>3</sup>,&nbsp;
