@@ -13,7 +13,7 @@
       <a href="https://scholar.google.com/citations?user=XFtCe08AAAAJ" target='_blank'>Jing Jiang</a><sup>4</sup>,&nbsp;
       <a href="" target='_blank'>Zejun Ma</a><sup>1</sup>
     <br>
-  <sup>1</sup>ByteDance AI Lab&nbsp; <sup>2</sup>National University of Singapore&nbsp; <sup>3</sup>Baidu&nbsp; <sup>4</sup>University of Technology Sydney
+  <sup>1</sup>ByteDance AI Lab&nbsp; <sup>2</sup>National University of Singapore&nbsp; <sup>3</sup>MBZUAI&nbsp; <sup>4</sup>University of Technology Sydney
   </p>
 </p>
 
