@@ -95,7 +95,7 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 
 ## Main Results
 
-#### UCF<sub>101</sub> - HMDB<sub>51</sub>
+### UCF<sub>101</sub> - HMDB<sub>51</sub>
 
 |        Method        |  Backbone  |  U<sub>101</sub> &#8594; H<sub>51</sub> | H<sub>51</sub> &#8594; U<sub>101</sub> | Average |
 |---------------------:|:----------:|:-----:|:-----:|:-----:|
@@ -117,13 +117,13 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 | **TranSVAE (Ours)**  |   **I3D**  | **87.78** | **98.95** | **93.37** |
 | Oracle               |     I3D    | 95.00 | 96.85 | 95.93 |
 
-#### Jester
+### Jester
 
 | Task |  Source-only  |  DANN | ADDA | TA<sup>3</sup>N | CoMix | **TranSVAE (Ours)** | Oracle |
 |:----:|:-------------:|:-----:|:----:|:---------------:|:-----:|:-------------------:|:------:|
 | **J**<sub>S</sub> &#8594; **J**<sub>T</sub> | 51.5 | 55.4 | 52.3 | 55.5 | 64.7 | **66.1** | 95.6 |
 
-#### Epic-Kitchens
+### Epic-Kitchens
 
 | Task |  Source-only  |  DANN | ADDA | TA<sup>3</sup>N | CoMix | **TranSVAE (Ours)** | Oracle |
 |:----:|:-------------:|:-----:|:----:|:---------------:|:-----:|:-------------------:|:------:|
@@ -135,9 +135,14 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 | **D**<sub>3</sub> &#8594; **D**<sub>2</sub> | 35.8 | 42.1 | 41.4 | 44.2 | 49.2 | **58.0** | 64.0 |
 |               Average                       | 35.3 | 39.2 | 37.4 | 39.9 | 43.2 | **52.6** | 61.5 |
 
-#### Ablation Studies
-
+### Ablation Studies
+<strong>UCF<sub>101</sub></strong> &#8594; <strong>HMDB<sub>51</sub></strong>
+<br>
 <img src="figs/ablation-ucf2hmdb.png">
+
+<strong>HMDB<sub>51</sub></strong> &#8594; <strong>UCF<sub>101</sub></strong>
+<br>
+<img src="figs/ablation-hmdb2ucf.png">
 
 
 ## TODO List
