@@ -23,7 +23,7 @@
   </a>
   
   <a href="https://ldkong.com/TranSVAE" target='_blank'>
-    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-yellowgreen">
+    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-pink">
   </a>
   
   <a href="https://huggingface.co/spaces/ldkong/TranSVAE" target='_blank'>
