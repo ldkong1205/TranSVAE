@@ -97,7 +97,7 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 ## Main Results
 
 ### UCF<sub>101</sub> - HMDB<sub>51</sub>
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-ucf-hmdb)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-ucf-hmdb?p=unsupervised-video-domain-adaptation-a)
 |        Method        |  Backbone  |  U<sub>101</sub> &#8594; H<sub>51</sub> | H<sub>51</sub> &#8594; U<sub>101</sub> | Average |
 |---------------------:|:----------:|:-----:|:-----:|:-----:|
 | DANN (JMLR'16)       | ResNet-101 | 75.28 | 76.36 | 75.82 |
@@ -119,13 +119,13 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 | Oracle               |     I3D    | 95.00 | 96.85 | 95.93 |
 
 ### Jester
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-jester)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-jester?p=unsupervised-video-domain-adaptation-a)
 | Task |  Source-only  |  DANN | ADDA | TA<sup>3</sup>N | CoMix | **TranSVAE (Ours)** | Oracle |
 |:----:|:-------------:|:-----:|:----:|:---------------:|:-----:|:-------------------:|:------:|
 | **J**<sub>S</sub> &#8594; **J**<sub>T</sub> | 51.5 | 55.4 | 52.3 | 55.5 | 64.7 | **66.1** | 95.6 |
 
 ### Epic-Kitchens
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-epic)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-epic?p=unsupervised-video-domain-adaptation-a)
 | Task |  Source-only  |  DANN | ADDA | TA<sup>3</sup>N | CoMix | **TranSVAE (Ours)** | Oracle |
 |:----:|:-------------:|:-----:|:----:|:---------------:|:-----:|:-------------------:|:------:|
 | **D**<sub>1</sub> &#8594; **D**<sub>2</sub> | 32.8 | 37.7 | 35.4 | 34.2 | 42.9 | **50.5** | 64.0 |
