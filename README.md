@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="" target='_blank'>
+  <a href="https://arxiv.org/abs/2208.07365" target='_blank'>
     <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-blue">
   </a>
   
@@ -52,7 +52,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 ## Updates
 
 - [2022.08] - Try a [Gradio demo](https://huggingface.co/spaces/ldkong/TranSVAE) for domain disentanglement in TranSVAE at Hugging Face Spaces! :hugs:
-- [2022.08] - Our paper is available on arXiv, click [here]() to check it out!
+- [2022.08] - Our paper is available on arXiv, click [here](https://arxiv.org/abs/2208.07365) to check it out!
 
 
 ## Outline
@@ -174,7 +174,7 @@ If you find this work helpful, please kindly consider citing our paper:
 @ARTICLE{wei2022transvae,
   title={Unsupervised Video Domain Adaptation: A Disentanglement Perspective},
   author={Wei, Pengfei and Kong, Lingdong and Qu, Xinghua and Yin, Xiang and Xu, Zhiqiang and Jiang, Jing and Ma, Zejun},
-  journal={arXiv preprint arXiv:2208.xxxxx}, 
+  journal={arXiv preprint arXiv:2208.07365}, 
   year={2022},
 }
 ```
