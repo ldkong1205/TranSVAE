@@ -5,15 +5,18 @@
   <h3 align="center"><strong>Unsupervised Video Domain Adaptation: A Disentanglement Perspective</strong></h3>
 
   <p align="center">
-      <a href="https://scholar.google.com/citations?user=a94WthkAAAAJ" target='_blank'>Pengfei Wei</a><sup>1</sup>,&nbsp;
-      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Lingdong Kong</a><sup>1,2</sup>,&nbsp;
-      <a href="https://scholar.google.com/citations?user=2PxlmU0AAAAJ" target='_blank'>Xinghua Qu</a><sup>1</sup>,&nbsp;
-      <a href="https://scholar.google.com/citations?user=e6_J-lEAAAAJ" target='_blank'>Xiang Yin</a><sup>1</sup>,&nbsp;
-      <a href="" target='_blank'>Zhiqiang Xu</a><sup>3</sup>,&nbsp;
-      <a href="https://scholar.google.com/citations?user=XFtCe08AAAAJ" target='_blank'>Jing Jiang</a><sup>4</sup>,&nbsp;
+      <a href="https://scholar.google.com/citations?user=a94WthkAAAAJ" target='_blank'>Pengfei Wei</a><sup>1</sup>&nbsp;
+      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Lingdong Kong</a><sup>1,2</sup>&nbsp;
+      <a href="https://scholar.google.com/citations?user=2PxlmU0AAAAJ" target='_blank'>Xinghua Qu</a><sup>1</sup>&nbsp;
+      <a href="https://scholar.google.com/citations?user=e6_J-lEAAAAJ" target='_blank'>Xiang Yin</a><sup>1</sup>&nbsp;
+      <a href="" target='_blank'>Zhiqiang Xu</a><sup>3</sup>&nbsp;
+      <a href="https://scholar.google.com/citations?user=XFtCe08AAAAJ" target='_blank'>Jing Jiang</a><sup>4</sup>&nbsp;
       <a href="" target='_blank'>Zejun Ma</a><sup>1</sup>
     <br>
-  <sup>1</sup>ByteDance AI Lab&nbsp; <sup>2</sup>National University of Singapore&nbsp; <sup>3</sup>MBZUAI&nbsp; <sup>4</sup>University of Technology Sydney
+  <sup>1</sup>ByteDance AI Lab&nbsp;&nbsp;
+  <sup>2</sup>National University of Singapore&nbsp;&nbsp;
+  <sup>3</sup>MBZUAI&nbsp;&nbsp;
+  <sup>4</sup>University of Technology Sydney
   </p>
 </p>
 
