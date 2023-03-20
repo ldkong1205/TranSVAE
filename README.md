@@ -122,7 +122,7 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 | Oracle               |     I3D    | 95.00 | 96.85 | 95.93 |
 
 ### Jester
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-jester)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-jester?p=unsupervised-video-domain-adaptation-a)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-jester-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-jester-1?p=unsupervised-video-domain-adaptation-a)
 | Task |  Source-only  |  DANN | ADDA | TA<sup>3</sup>N | CoMix | **TranSVAE (Ours)** | Oracle |
 |:----:|:-------------:|:-----:|:----:|:---------------:|:-----:|:-------------------:|:------:|
 | **J**<sub>S</sub> &#8594; **J**<sub>T</sub> | 51.5 | 55.4 | 52.3 | 55.5 | 64.7 | **66.1** | 95.6 |
