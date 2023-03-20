@@ -72,7 +72,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 - [Citation](#citation)
 
 
-## Highlights
+## Highlight
 
 | <strong>Conceptual Comparison</strong> |
 |:-:|
@@ -97,7 +97,7 @@ Please refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepa
 Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about this codebase.
 
 
-## Main Results
+## Main Result
 
 ### UCF<sub>101</sub> - HMDB<sub>51</sub>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-ucf-hmdb)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-ucf-hmdb?p=unsupervised-video-domain-adaptation-a)
@@ -128,7 +128,7 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 | **J**<sub>S</sub> &#8594; **J**<sub>T</sub> | 51.5 | 55.4 | 52.3 | 55.5 | 64.7 | **66.1** | 95.6 |
 
 ### Epic-Kitchens
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-epic)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-epic?p=unsupervised-video-domain-adaptation-a)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-jester-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-jester-1?p=unsupervised-video-domain-adaptation-a)
 | Task |  Source-only  |  DANN | ADDA | TA<sup>3</sup>N | CoMix | **TranSVAE (Ours)** | Oracle |
 |:----:|:-------------:|:-----:|:----:|:---------------:|:-----:|:-------------------:|:------:|
 | **D**<sub>1</sub> &#8594; **D**<sub>2</sub> | 32.8 | 37.7 | 35.4 | 34.2 | 42.9 | **50.5** | 64.0 |
@@ -139,7 +139,7 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 | **D**<sub>3</sub> &#8594; **D**<sub>2</sub> | 35.8 | 42.1 | 41.4 | 44.2 | 49.2 | **58.0** | 64.0 |
 |               Average                       | 35.3 | 39.2 | 37.4 | 39.9 | 43.2 | **52.6** | 61.5 |
 
-### Ablation Studies
+### Ablation Study
 <strong>UCF<sub>101</sub></strong> &#8594; <strong>HMDB<sub>51</sub></strong>
 <br>
 <img src="figs/ablation-ucf2hmdb.png">
@@ -148,16 +148,36 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 <br>
 <img src="figs/ablation-hmdb2ucf.png">
 
+<strong>Domain Transfer Example</strong>
+<br>
+| Source (Original) | Target (Original) |  | Source (Original) | Target (Original) |
+| :-: | :-: | :-: | :-: | :-: |
+| ![src_original](figs/example1/src_original.gif) | ![tar_original](figs/example1/tar_original.gif) |  | ![src_original](figs/example2/src_original.gif) | ![tar_original](figs/example2/tar_original.gif) |
+| |
+| Reconstruct ($\mathbf{z}_d^{\mathcal{S}}$ + $\mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}}$ + $\mathbf{z}_t^{\mathcal{T}}$) |  | Reconstruct ($\mathbf{z}_d^{\mathcal{S}}$ + $\mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}}$ + $\mathbf{z}_t^{\mathcal{T}}$) |
+| ![src_recon](figs/example1/src_recon.gif) | ![tar_recon](figs/example1/tar_recon.gif) |  | ![src_recon](figs/example2/src_recon.gif) | ![tar_recon](figs/example2/tar_recon.gif) |
+| |
+| Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{0}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{0}$) |  | Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{0}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{0}$) | 
+| ![recon_srcZf](figs/example1/recon_srcZf.gif) | ![recon_tarZf](figs/example1/recon_tarZf.gif) |  | ![recon_srcZf](figs/example2/recon_srcZf.gif) | ![recon_tarZf](figs/example2/recon_tarZf.gif) |
+| |
+| Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{T}}$) |  | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{T}}$) | 
+| ![recon_srcZt](figs/example1/recon_srcZt.gif) | ![recon_tarZt](figs/example1/recon_tarZt.gif) |  | ![recon_srcZt](figs/example2/recon_srcZt.gif) | ![recon_tarZt](figs/example2/recon_tarZt.gif) |
+| |
+| Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{z}_t^{\mathcal{T}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{z}_t^{\mathcal{S}}$) |  | Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{z}_t^{\mathcal{T}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{z}_t^{\mathcal{S}}$) | 
+| ![recon_srcZf_tarZt](figs/example1/recon_srcZf_tarZt.gif) | ![recon_tarZf_srcZt](figs/example1/recon_tarZf_srcZt.gif) |  | ![recon_srcZf_tarZt](figs/example2/recon_srcZf_tarZt.gif) | ![recon_tarZf_srcZt](figs/example2/recon_tarZf_srcZt.gif) |
+
+
+
 
 ## TODO List
 
 - [x] Initial release. 🚀
 - [x] Add license. See [here](#license) for more details.
 - [x] Add demo at Hugging Face Spaces.
-- [ ] Add installation details.
-- [ ] Add data preparation details.
-- [ ] Add evaluation details.
-- [ ] Add training details.
+- [x] Add installation details.
+- [x] Add data preparation details.
+- [x] Add evaluation details.
+- [x] Add training details.
 
 
 ## License
