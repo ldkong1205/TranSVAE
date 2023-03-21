@@ -26,7 +26,7 @@
   </a>
   
   <a href="https://ldkong.com/TranSVAE" target='_blank'>
-    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-lightgreen">
+    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-lightblue">
   </a>
   
   <a href="https://huggingface.co/spaces/ldkong/TranSVAE" target='_blank'>
@@ -35,6 +35,10 @@
   
   <a href="https://zhuanlan.zhihu.com/p/553169112" target='_blank'>
     <img src="https://img.shields.io/badge/%E4%B8%AD%E8%AF%91%E7%89%88-%F0%9F%90%BC-red">
+  </a>
+  
+  <a href="" target='_blank'>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ldkong1205.TranSVAE&left_color=gray&right_color=firebrick">
   </a>
 </p>
 
