@@ -2,7 +2,7 @@
 <p align="center">
   <img src="figs/logo.png" align="center" width="42%">
   
-  <h3 align="center"><strong>Unsupervised Video Domain Adaptation: A Disentanglement Perspective</strong></h3>
+  <h3 align="center"><strong>Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective</strong></h3>
 
   <p align="center">
       <a href="https://scholar.google.com/citations?user=a94WthkAAAAJ" target='_blank'>Pengfei Wei</a><sup>1</sup>&nbsp;
