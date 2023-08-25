@@ -47,7 +47,7 @@
 
 <br>
 <p align="center">
-  <img src="figs/example.gif" align="center" width="60%">
+  <img src="https://github.com/ldkong1205/TranSVAE/blob/main/figs/example.gif" align="center" width="60%">
   <br>
   <strong>Col1:</strong> Original sequences ("Human" $\mathcal{D}=\mathbf{P}_1$ and "Alien" $\mathcal{D}=\mathbf{P}_2$); <strong>Col2:</strong> Sequence reconstructions; <strong>Col3:</strong> Reconstructed sequences using $z_1^{\mathcal{D}},...,z_T^{\mathcal{D}}$; <strong>Col4:</strong> Domain transferred sequences with exchanged $z_d^{\mathcal{D}}$.
 </p>
@@ -156,19 +156,19 @@ Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about 
 <br>
 | Source (Original) | Target (Original) |  | Source (Original) | Target (Original) |
 | :-: | :-: | :-: | :-: | :-: |
-| ![src_original](figs/example1/src_original.gif) | ![tar_original](figs/example1/tar_original.gif) |  | ![src_original](figs/example2/src_original.gif) | ![tar_original](figs/example2/tar_original.gif) |
+| ![src_original](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/src_original.gif) | ![tar_original](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/tar_original.gif) |  | ![src_original](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/src_original.gif) | ![tar_original](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/tar_original.gif) |
 | |
 | Reconstruct ($\mathbf{z}_d^{\mathcal{S}}$ + $\mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}}$ + $\mathbf{z}_t^{\mathcal{T}}$) |  | Reconstruct ($\mathbf{z}_d^{\mathcal{S}}$ + $\mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}}$ + $\mathbf{z}_t^{\mathcal{T}}$) |
-| ![src_recon](figs/example1/src_recon.gif) | ![tar_recon](figs/example1/tar_recon.gif) |  | ![src_recon](figs/example2/src_recon.gif) | ![tar_recon](figs/example2/tar_recon.gif) |
+| ![src_recon](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/src_recon.gif) | ![tar_recon](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/tar_recon.gif) |  | ![src_recon](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/src_recon.gif) | ![tar_recon](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/tar_recon.gif) |
 | |
 | Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{0}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{0}$) |  | Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{0}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{0}$) | 
-| ![recon_srcZf](figs/example1/recon_srcZf.gif) | ![recon_tarZf](figs/example1/recon_tarZf.gif) |  | ![recon_srcZf](figs/example2/recon_srcZf.gif) | ![recon_tarZf](figs/example2/recon_tarZf.gif) |
+| ![recon_srcZf](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/recon_srcZf.gif) | ![recon_tarZf](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/recon_tarZf.gif) |  | ![recon_srcZf](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/recon_srcZf.gif) | ![recon_tarZf](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/recon_tarZf.gif) |
 | |
 | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{T}}$) |  | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{S}}$) | Reconstruct ($\mathbf{0} + \mathbf{z}_t^{\mathcal{T}}$) | 
-| ![recon_srcZt](figs/example1/recon_srcZt.gif) | ![recon_tarZt](figs/example1/recon_tarZt.gif) |  | ![recon_srcZt](figs/example2/recon_srcZt.gif) | ![recon_tarZt](figs/example2/recon_tarZt.gif) |
+| ![recon_srcZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/recon_srcZt.gif) | ![recon_tarZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/recon_tarZt.gif) |  | ![recon_srcZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/recon_srcZt.gif) | ![recon_tarZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/recon_tarZt.gif) |
 | |
 | Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{z}_t^{\mathcal{T}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{z}_t^{\mathcal{S}}$) |  | Reconstruct ($\mathbf{z}_d^{\mathcal{S}} + \mathbf{z}_t^{\mathcal{T}}$) | Reconstruct ($\mathbf{z}_d^{\mathcal{T}} + \mathbf{z}_t^{\mathcal{S}}$) | 
-| ![recon_srcZf_tarZt](figs/example1/recon_srcZf_tarZt.gif) | ![recon_tarZf_srcZt](figs/example1/recon_tarZf_srcZt.gif) |  | ![recon_srcZf_tarZt](figs/example2/recon_srcZf_tarZt.gif) | ![recon_tarZf_srcZt](figs/example2/recon_tarZf_srcZt.gif) |
+| ![recon_srcZf_tarZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/recon_srcZf_tarZt.gif) | ![recon_tarZf_srcZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example1/recon_tarZf_srcZt.gif) |  | ![recon_srcZf_tarZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/recon_srcZf_tarZt.gif) | ![recon_tarZf_srcZt](https://github.com/ldkong1205/TranSVAE/blob/main/figs/example2/recon_tarZf_srcZt.gif) |
 
 
 
