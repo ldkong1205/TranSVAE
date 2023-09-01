@@ -5,13 +5,13 @@
   <h3 align="center"><strong>Unsupervised Video Domain Adaptation for Action Recognition:<br>A Disentanglement Perspective</strong></h3>
 
   <p align="center">
-      <a href="https://scholar.google.com/citations?user=a94WthkAAAAJ" target='_blank'>Pengfei Wei</a><sup>1</sup>&nbsp;
-      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Lingdong Kong</a><sup>1,2</sup>&nbsp;
-      <a href="https://scholar.google.com/citations?user=2PxlmU0AAAAJ" target='_blank'>Xinghua Qu</a><sup>1</sup>&nbsp;
-      <a href="https://scholar.google.com/citations?user=e6_J-lEAAAAJ" target='_blank'>Xiang Yin</a><sup>1</sup>&nbsp;
-      <a href="" target='_blank'>Zhiqiang Xu</a><sup>3</sup>&nbsp;
-      <a href="https://scholar.google.com/citations?user=XFtCe08AAAAJ" target='_blank'>Jing Jiang</a><sup>4</sup>&nbsp;
-      <a href="" target='_blank'>Zejun Ma</a><sup>1</sup>
+      <a href="https://scholar.google.com/citations?user=a94WthkAAAAJ" target='_blank'>Pengfei Wei</a><sup>1</sup>&nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Lingdong Kong</a><sup>1,2</sup>&nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=2PxlmU0AAAAJ" target='_blank'>Xinghua Qu</a><sup>1</sup>&nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=4FA6C0AAAAAJ" target='_blank'>Yi Ren</a><sup>1</sup>&nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=0R20iBMAAAAJ" target='_blank'>Zhiqiang Xu</a><sup>3</sup>&nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=XFtCe08AAAAJ" target='_blank'>Jing Jiang</a><sup>4</sup>&nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=e6_J-lEAAAAJ" target='_blank'>Xiang Yin</a><sup>1</sup>
     <br>
   <sup>1</sup>ByteDance AI Lab&nbsp;&nbsp;
   <sup>2</sup>National University of Singapore&nbsp;&nbsp;
@@ -76,7 +76,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 - [Citation](#citation)
 
 
-## Highlight
+## Highlights
 
 | <strong>Conceptual Comparison</strong> |
 |:-:|
@@ -101,7 +101,7 @@ Please refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepa
 Please refer to [GET_STARTED.md](docs/GET_STARTED.md) to learn more usage about this codebase.
 
 
-## Main Result
+## Main Results
 
 ### UCF<sub>101</sub> - HMDB<sub>51</sub>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-video-domain-adaptation-a/unsupervised-domain-adaptation-on-ucf-hmdb)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-ucf-hmdb?p=unsupervised-video-domain-adaptation-a)
