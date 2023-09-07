@@ -22,23 +22,23 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2208.07365" target='_blank'>
-    <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-blue">
+    <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-firebrick">
   </a>
   
   <a href="https://ldkong.com/TranSVAE" target='_blank'>
-    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-lightblue">
+    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-red">
   </a>
   
   <a href="https://huggingface.co/spaces/ldkong/TranSVAE" target='_blank'>
-    <img src="https://img.shields.io/badge/Demo-%F0%9F%8E%AC-pink">
+    <img src="https://img.shields.io/badge/Demo-%F0%9F%8E%AC-lightgray">
   </a>
   
   <a href="https://zhuanlan.zhihu.com/p/553169112" target='_blank'>
-    <img src="https://img.shields.io/badge/%E4%B8%AD%E8%AF%91%E7%89%88-%F0%9F%90%BC-red">
+    <img src="https://img.shields.io/badge/%E4%B8%AD%E8%AF%91%E7%89%88-%F0%9F%90%BC-lightblue">
   </a>
   
   <a href="" target='_blank'>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ldkong1205.TranSVAE&left_color=gray&right_color=firebrick">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ldkong1205.TranSVAE&left_color=gray&right_color=blue">
   </a>
 </p>
 
