@@ -201,7 +201,7 @@ If you find this work helpful, please kindly consider citing our paper:
 
 ```bibtex
 @inproceedings{wei2023transvae,
-  title = {Unsupervised Video Domain Adaptation: A Disentanglement Perspective},
+  title = {Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective},
   author = {Wei, Pengfei and Kong, Lingdong and Qu, Xinghua and Ren, Yi and Xu, Zhiqiang and Jiang, Jing and Yin, Xiang},
   booktitle = {Advances in Neural Information Processing Systems}, 
   year = {2023},
