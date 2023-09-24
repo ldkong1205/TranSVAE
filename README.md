@@ -200,10 +200,10 @@ We acknowledge the use of the following public resources during the course of th
 If you find this work helpful, please kindly consider citing our paper:
 
 ```bibtex
-@ARTICLE{wei2022transvae,
-  title={Unsupervised Video Domain Adaptation: A Disentanglement Perspective},
-  author={Wei, Pengfei and Kong, Lingdong and Qu, Xinghua and Yin, Xiang and Xu, Zhiqiang and Jiang, Jing and Ma, Zejun},
-  journal={arXiv preprint arXiv:2208.07365}, 
-  year={2022},
+@inproceedings{wei2023transvae,
+  title = {Unsupervised Video Domain Adaptation: A Disentanglement Perspective},
+  author = {Wei, Pengfei and Kong, Lingdong and Qu, Xinghua and Ren, Yi and Xu, Zhiqiang and Jiang, Jing and Yin, Xiang},
+  booktitle = {Advances in Neural Information Processing Systems}, 
+  year = {2023},
 }
 ```
