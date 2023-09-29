@@ -85,7 +85,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 
 | <strong>Conceptual Comparison</strong> |
 |:-:|
-|<img src="figs/idea.png" width="70%">|
+|<img src="figs/idea.jpg" width="70%">|
 | <strong>Graphical Model</strong> |
 |<img src="figs/graph.png" width="60%">|
 | <strong>Framework Overview</strong> |
