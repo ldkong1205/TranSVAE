@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+ <a href="https://neurips.cc/" target='_blank'><b>NeurIPS 2023</b></a>
+</p>
+
+<p align="center">
   <a href="https://arxiv.org/abs/2208.07365" target='_blank'>
     <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-firebrick">
   </a>
