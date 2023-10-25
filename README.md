@@ -62,7 +62,7 @@ Visit our [project page](https://ldkong.com/TranSVAE) to explore more details. :
 
 ## Updates
 
-- [2023.10] - We provide our extracted I3D features, kindly refer to [this](https://github.com/ldkong1205/TranSVAE/blob/main/docs/DATA_PREPARE.md) for more details.
+- [2023.10] - We provide our extracted I3D features, kindly refer to [this](https://github.com/ldkong1205/TranSVAE/blob/main/docs/DATA_PREPARE.md) page for more details.
 - [2023.09] - TranSVAE was accepted to [NeurIPS 2023](https://neurips.cc/)! :tada:
 - [2022.08] - TranSVAE achieves 1st place among the UDA leaderboards of [UCF-HMDB](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-ucf-hmdb), [Jester](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-jester), and [Epic-Kitchens](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-epic), based on [Paper-with-Code](https://paperswithcode.com/paper/unsupervised-video-domain-adaptation-a).
 - [2022.08] - Try a [Gradio demo](https://huggingface.co/spaces/ldkong/TranSVAE) for domain disentanglement in TranSVAE at Hugging Face Spaces! :hugs:
